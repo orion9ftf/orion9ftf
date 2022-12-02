@@ -8,3 +8,7 @@
 orion9ftf/orion9ftf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<br />
+
+<p align="center"> <img align="center" src="https://profile-counter.glitch.me/orion9ftf/count.svg" /> </p>
