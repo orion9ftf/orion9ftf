@@ -2,7 +2,7 @@
 
 - 🌱 I am currently learning ethical hacking in a self-taught way
 - 💞️ Currently create a simple platform where you can learn the basics of object-oriented programming, with simple examples.
-- Blog in process of implementations of videos, illustrations, additional information and tips for your day to day as a Programmer ~> [blog](https://whale-app-e46vv.ondigitalocean.app/) (current domain and DNS and SSL settings)
+- Blog in process of implementations of videos, illustrations, additional information and tips for your day to day as a Programmer ~> [blog](https://whale-app-e46vv.ondigitalocean.app/)
 <!---
 orion9ftf/orion9ftf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
