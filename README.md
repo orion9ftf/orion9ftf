@@ -11,3 +11,5 @@ You can click the Preview link to take a look at your changes.
 <br />
 
  <p align="center">People who have visited the repositories ~> <img align="center" src="https://profile-counter.glitch.me/orion9ftf/count.svg" /> <~ </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
