@@ -10,8 +10,6 @@ You can click the Preview link to take a look at your changes.
 
 <br />
 
- <p align="center">People who have visited the repositories ~> <img align="center" src="https://profile-counter.glitch.me/orion9ftf/count.svg" /> <~ </p>
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
